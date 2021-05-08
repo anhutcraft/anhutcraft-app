@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>FullScreen</key>
+				<true />
+				<key>Icon</key>
+				<data>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</data>
+				<key>Label</key>
+				<string>anhutcraft fansite</string>
+				<key>PayloadDisplayName</key>
+				<string>Web Clip #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadType</key>
+				<string>com.apple.webClip.managed</string>
+				<key>PayloadUUID</key>
+				<string>7cec974b-086c-4614-bfc8-4742debf4a2e</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>URL</key>
+				<string>https://sites.google.com/view/anhutcraft/home</string>
+			</dict>
+			<dict>
+				<key>PayloadDisplayName</key>
+				<string>App Store settings</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.appstore</string>
+				<key>PayloadType</key>
+				<string>com.apple.appstore</string>
+				<key>PayloadUUID</key>
+				<string>1134f0d8-df37-4d80-befe-c4a6ef0276bf</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>CloudExtensionRequestEnabled</key>
+				<true />
+				<key>CloudReportingEnabled</key>
+				<true />
+				<key>DefaultBrowserSettingEnabled</key>
+				<true />
+				<key>PayloadDisplayName</key>
+				<string>Google Chrome</string>
+				<key>PayloadIdentifier</key>
+				<string>com.google.Chrome</string>
+				<key>PayloadType</key>
+				<string>com.google.Chrome</string>
+				<key>PayloadUUID</key>
+				<string>93de9a28-4705-4dde-95d7-19a49b84cd31</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>ReportSafeBrowsingData</key>
+				<true />
+				<key>ShowCastIconInToolbar</key>
+				<true />
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>A IOS fanapp for anhutcraft</string>
+		<key>PayloadDisplayName</key>
+		<string>anhutcraft </string>
+		<key>PayloadIdentifier</key>
+		<string>anhutcraft.stuff.com</string>
+		<key>PayloadOrganization</key>
+		<string>anhutcraft Stuff</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true />
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>b0c82b18-e6a6-4bbd-a920-27fc153af261</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>TargetDeviceType</key>
+		<integer>0</integer>
+	</dict>
+</plist>
